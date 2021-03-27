@@ -1,0 +1,11 @@
+name: Ruby
+on: push
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@master
+      with:
+        ruby-version: 2.6
