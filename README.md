@@ -1,2 +1,2 @@
 # solid-pattern-desing
-repositorio para practicar principios solid y patrones de diseño en ruby.
+Repositorio para practicar principios SOLID y Patrones de Diseño en Ruby.
